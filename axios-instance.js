@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 const instance = axios.create({
-    baseURL: `https://api.dealmate.com.my/api`,
+    baseURL: `URL`,
 })
 
 // Set the AUTH token for any request
